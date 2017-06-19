@@ -1,4 +1,7 @@
 # queue-ll
+
+[![Build Status](https://travis-ci.org/incessantmeraki/queue-ll.svg?branch=master)](https://travis-ci.org/incessantmeraki/queue-ll)
+
 simple queue data structure using linked list
 
 ## Usage
