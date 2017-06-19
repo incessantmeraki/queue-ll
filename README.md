@@ -31,6 +31,9 @@ traverses each element of the queue
 #### `queue.clear()`
 clears all elements of queue
 
+#### `queue.size`
+returns length of the queue
+
 ## License
 
 MIT

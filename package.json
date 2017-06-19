@@ -1,1 +1,23 @@
-{}
+{
+  "name": "queue-ll",
+  "description": "simple queue data structure using linked list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incessantmeraki/queue-ll.git"
+  },
+  "keywords": [
+    "js",
+    "queue"
+  ],
+  "author": "Ashwin Kandel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incessantmeraki/queue-ll/issues"
+  },
+  "homepage": "https://github.com/incessantmeraki/queue-ll#readme"
+}
