@@ -28,6 +28,9 @@ removes element from front of the queue and return it
 #### `queue.forEach(cb(value))`
 traverses each element of the queue
 
+#### `queue.clear()`
+clears all elements of queue
+
 ## License
 
 MIT
