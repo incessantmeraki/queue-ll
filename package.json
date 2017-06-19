@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/incessantmeraki/queue-ll/issues"
   },
-  "homepage": "https://github.com/incessantmeraki/queue-ll#readme"
+  "homepage": "https://github.com/incessantmeraki/queue-ll#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
 }
